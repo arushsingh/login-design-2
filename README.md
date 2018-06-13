@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub this is a javascript based login and sign up form
 
 You can use the [editor on GitHub](https://github.com/arushsingh/login-design-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
